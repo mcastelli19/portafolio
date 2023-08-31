@@ -1,0 +1,59 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #0066cc;
+}
+
+h2 {
+    color: #009933;
+    margin-top: 30px;
+}
+
+p {
+    color: #666;
+    line-height: 1.6;
+}
+
+/* Estilos para secciones específicas */
+#about {
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+#projects {
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+
+#contact {
+    background-color: #e5e5e5;
+    padding: 20px;
+}
+
+/* Estilos para clases específicas */
+.unique-class {
+    color: #ff6600;
+}
+
+.project {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+/* Otros selectores de clases */
+.project h3 {
+    font-size: 18px;
+}
+
+/* Selectores de elementos por ID */
+#about h2 {
+    font-weight: bold;
+}
+#contact p {
+    font-style: italic;
+}
